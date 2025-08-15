@@ -1,0 +1,1 @@
+MusicWeb is a responsive and interactive web application where users can explore, play, and enjoy their favorite tracks online. Built with a clean design and smooth UI/UX, it delivers a seamless music listening experience directly in the browser.
